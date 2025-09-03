@@ -8,3 +8,6 @@ patch:
   schema_list:
     - {schema: rime_ice}
   menu/page_size: 9
+  ascii_composer/switch_key/Caps_Lock: commit_code
+  ascii_composer/switch_key/Shift_L: noop
+  # ascii_composer/switch_key/Control+space: commit_code
