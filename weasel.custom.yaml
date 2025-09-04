@@ -4,5 +4,5 @@ patch:
   style/label_font_face: 霞鹜文楷 GB
   style/comment_font_face: 霞鹜文楷 GB
   style/font_point: 13
-  style/label_font_point: 13
+  style/label_font_point: 11
   style/comment_font_point: 12
