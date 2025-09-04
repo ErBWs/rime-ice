@@ -9,6 +9,8 @@ patch:
   style/font_point: 19
   style/label_font_point: 13
   style/comment_font_point: 17
+  style/border_height: 2
+  style/border_width: 2
 
   preset_color_schemes:
     steam:
