@@ -1,0 +1,4 @@
+patch:
+  # 开启Control+space切换中英脚本
+  engine/processors/+: 
+    - lua_processor@toggle_ascii
