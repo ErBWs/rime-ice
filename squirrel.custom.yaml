@@ -6,9 +6,7 @@ patch:
   style/font_face: 霞鹜文楷 GB
   style/label_font_face: 霞鹜文楷 GB
   style/comment_font_face: 霞鹜文楷 GB
-  style/font_point: 19
-  style/label_font_point: 13
-  style/comment_font_point: 17
+  style/label_font_point: 11
   style/border_height: 2
   style/border_width: 2
 
